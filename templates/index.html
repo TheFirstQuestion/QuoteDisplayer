@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>QuoteDisplayer</title>
+    <link href="https://fonts.googleapis.com/css?family=Barlow" rel="stylesheet">
+
+    <style>
+        div {
+            margin-top: 20px;
+            padding: 7%;
+            text-align: center;
+            font-family: 'Barlow', sans-serif;
+            font-weight: normal;
+            font-size: 50px;
+            color: white;
+        }
+
+        form {
+            text-align: center;
+            bottom: 20px;
+            position: absolute;
+            width: 98%;
+            display: none;
+        }
+    </style>
+</head>
+
+
+<body style="background-color: {{ color }}" onkeypress="newQuote()">
+    <div>
+        <span>{{ quote }}</span>
+    </div>
+    <form action="/" method="post" name="myForm">
+        <button name="newQuoteBtn" type="submit">New Quote</button>
+    </form>
+</body>
+
+<script>
+    function newQuote() {
+        document.myForm.submit();
+    }
+</script>
+
+
+</body>
+</html>
