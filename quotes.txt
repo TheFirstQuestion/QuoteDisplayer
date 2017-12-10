@@ -73,12 +73,12 @@ If you do not ask, the answer will always be no.
 If you do not move forward, you will always be in the same place.
 Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway.
 One of the most important keys to success is having the discipline to do what you know you should so, even when you don't feel like doing it.
-Achievement is talent + preparation.
+Achievement =  talent + preparation.
 What you do every day matters more than what you do once in a while.
 Be so good they can't ignore you.
 It's not how good you are, it's how good you want to be.
 We are what we repeatedly do. Excellence, then, is not an act, but a habit.
-Practice isn't the thing you do once your good. It's the thing you do that makes you good.
+Practice isn't the thing you do once you're good. It's the thing you do that makes you good.
 Success is a function of persistence and doggedness and the willingness to work hard for twenty-two minutes to make sense of something that most people would give up on after thirty seconds.
 Maybe you have to stop waiting for someone to come along and fix what's wrong. Maybe you have to muster the strength you have and find the courage to do this on your own. Maybe sometimes you just have to be you own hero and say "I can do this."
 It does not do to dwell on dreams and forget to live.
@@ -151,3 +151,6 @@ Doubt kills more dreams than failure ever will.
 Courage does not always roar. Sometimes, it is the quiet voice at the end of the day saying, "I will try again tomorrow."
 Computer science is beautiful because you can create something truly amazing with relatively little background experience. How long does one have to study mathematics to prove something novel? How long does one have to carefully analyze classical music to write a symphony? How long must one work at physics to be able to derive the Standard Model? In computer science, you can do powerful things very quickly. You can add true value to society with nothing but a good idea and the knowledge to program it.
 No one—not rock stars, not professional athletes, not software billionaires, and not even geniuses—ever makes it alone.
+Don't romanticize your life. This isn't a book. Use your head and figure it out.
+Do not lie to yourself about the nobility of a decision. It's more important to understand yourself than to pretend to be deep.
+Don't make snap judgements about anything important. Figure out what you want, and make sure you approve of the reasons you have for wanting it, then pick the best way avaiable to get it. Preferably, do this in writing.
