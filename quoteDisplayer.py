@@ -46,6 +46,10 @@ def getColor():
 def main():
     return flask.render_template('index.html', quote=getQuote(), color=getColor())
 
+@app.route('/favicon.ico')
+def favicon():
+    return flask.redirect(flask.url_for('static', filename='images/favicon.ico'), code=302)
+
 
 
 if __name__ == "__main__":
